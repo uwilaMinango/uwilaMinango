@@ -114,7 +114,7 @@ Partnering with passionate individuals and organizations to create meaningful an
 <p>_______________________________________________________________________________________________________</p>
 
 ## 🖥️ Code Snippets
-![Image]()
+![Image](https://github.com/uwilaMinango/uwilaMinango/blob/main/Screenshot%202026-06-09%20120727.png?raw=true)
 
 <footer>
   <p>_______________________________________________________________________________________________________</p>
