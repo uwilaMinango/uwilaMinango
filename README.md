@@ -110,6 +110,12 @@ Partnering with passionate individuals and organizations to create meaningful an
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
   </a>
 </p>
+
+<p>_______________________________________________________________________________________________________</p>
+
+## 🖥️ Code Snippets
+![Image]()
+
 <footer>
   <p>_______________________________________________________________________________________________________</p>
   <p>Feel free to reach out to collaborate on a project or just say hi!</p>
